@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋我是一名励志成为Java开发工程师的小白。
 
 <!--
 **gutianzhi/gutianzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
